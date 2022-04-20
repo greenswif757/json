@@ -3,14 +3,18 @@
 			"BannerFaceb": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 			"IntertialFaceb": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-			"IntertialAdmob": "ca-app-pub-3940256099942544/1033173712"
+			"IntertialAdmob": "ca-app-pub-3940256099942544/1033173712",
+		        "BannerAdmob1": "ca-app-pub-3940256099942544/6300978111",
+			"IntertialAdmob1": "ca-app-pub-3940256099942544/1033173712"
 		
 		},
 		{
 			"BannerFaceb": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 			"IntertialFaceb": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-			"IntertialAdmob": "ca-app-pub-3940256099942544/1033173712"
+			"IntertialAdmob": "ca-app-pub-3940256099942544/1033173712",
+		        "BannerAdmob1": "ca-app-pub-3940256099942544/6300978111",
+			"IntertialAdmob1": "ca-app-pub-3940256099942544/1033173712"
 			
 		}
 	]
